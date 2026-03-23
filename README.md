@@ -14,7 +14,7 @@ The primary goal of this project is to: Analyze employee attrition patterns , Id
 - Which employees are at high risk of leaving?
 - What insights can help improve employee retention?
 
-- Dashboard Interaction <a href="https://github.com/iamansh-kr/HR-Data-Analysis-Dashboard/blob/main/Hr_analytics_dashboard_ansh_kr.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/iamansh-kr/HR-Data-Analysis-Dashboard/blob/main/Hr_Data_Analytics_Dashboard_ansh_kumar.png">View Dashboard</a>
 
 ## Process
 - Collected and imported the HR dataset into Excel
