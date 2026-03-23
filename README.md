@@ -29,3 +29,16 @@ The primary goal of this project is to: Analyze employee attrition patterns , Id
 ## Dashboard
 
 <img width="1319" height="654" alt="Hr_analytics_dashboard_ansh_kr" src="https://github.com/user-attachments/assets/b7a95783-b641-41df-976a-6a5e5486f3c6" />
+
+## Project Insights
+- Higher attrition is observed in certain departments and job roles, indicating possible work pressure or lack of growth
+- Younger employees show higher turnover, suggesting early-career instability
+- Employees with lower job satisfaction are more likely to leave
+- Education and marital status show noticeable impact on attrition patterns
+- Some employee segments can be identified as high-risk for leaving
+
+## Final Conclusion
+- Employee attrition is influenced by multiple factors like job role, satisfaction, and demographics
+- Improving job satisfaction and work environment can reduce turnover
+- HR should focus on high-risk groups to improve retention
+- Data-driven insights help in making better workforce decisions
