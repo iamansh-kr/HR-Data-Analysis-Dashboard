@@ -28,7 +28,7 @@ The primary goal of this project is to: Analyze employee attrition patterns , Id
 
 ## Dashboard
 
-<img width="1319" height="654" alt="Hr_analytics_dashboard_ansh_kr" src="https://github.com/user-attachments/assets/b7a95783-b641-41df-976a-6a5e5486f3c6" />
+<img width="1359" height="658" alt="Hr_Data_Analytics_Dashboard_ansh_kumar" src="https://github.com/user-attachments/assets/13fda60d-8419-4150-9304-10a866033551" />
 
 ## Project Insights
 - Higher attrition is observed in certain departments and job roles, indicating possible work pressure or lack of growth
